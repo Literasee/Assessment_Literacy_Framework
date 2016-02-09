@@ -1,10 +1,8 @@
 # Assessment Literacy Collaborative Workgroup Project
 
 ## Deliverables (due March 1st)
-### January 29th: Share Draft Component with Partner
-### February 5th: Share to all with partner edits
-### February 9th (3:30): Call to discuss all chapters
-### February 19th: Holistic editor (i.e. Charlie) gets paper with candidate final components
+
+### February 18th: Share to all with partner edits
 ### February 26th: Project Completion
 
 
