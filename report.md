@@ -2,7 +2,7 @@
 
 ## Deliverables (due March 1st)
 
-### February 18th: Share to all with partner edits!!!
+### February 18th: Share to all with partner edits
 ### February 26th: Project Completion
 
 
