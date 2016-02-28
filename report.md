@@ -55,9 +55,9 @@ Markdown | Less | Pretty
 
 
 
-:[test image] (https://charliedepascale.files.wordpress.com/2016/02/dsc09569.jpg)
+|[test image](https://charliedepascale.files.wordpress.com/2016/02/dsc09569.jpg)
 
-|[test image 2] (https://charliedepascale.files.wordpress.com/2016/02/dsc09569.jpg)
+
 
 Sustaining and Evaluating Assessment Literacy 
 
