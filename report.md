@@ -57,6 +57,8 @@ Markdown | Less | Pretty
 
 :[test image] (https://charliedepascale.files.wordpress.com/2016/02/dsc09569.jpg)
 
+|[test image 2] (https://charliedepascale.files.wordpress.com/2016/02/dsc09569.jpg)
+
 Sustaining and Evaluating Assessment Literacy 
 
 In the final section of this paper will we discuss recommendations for sustaining and evaluating assessment literacy initiatives.   We argue that literacy efforts are most likely to be sustained and successful when characterized by four factors:
