@@ -79,32 +79,65 @@ Alternatively, the list could be expanded to include more detail as was done by 
 Regardless of the level of detail included, lists of topics are only the starting point in defining assessment literacy.
 
 
-Popham (2012) offers an elegant definition of assessment literacy:  Assessment literacy consists of an individual’s understandings of the fundamental assessment concepts and procedures deemed likely to influence educational decisions. What makes Popham’s definition elegant is that it does not divorce understanding of assessment concepts and procedures from the context in which they will be used; that is, to influence educational decisions.  Many people reading that definition will focus on the words “understandings of the fundamental assessment concepts and procedures” as the critical aspects to identify an assessment literate person.  However, the second half of the definition, “deemed likely to influence educational decisions,” is equally important.  Assessment literacy includes not only an understanding of assessment concepts and procedures, but also the proficiency to apply those concepts and procedures to influence educational decisions within a particular context as a teacher, administrator, or policymaker (or student, parent, taxpayer, …).  
+Popham (2012) offers an elegant definition of assessment literacy:  
+
+  *Assessment literacy consists of an individual’s understandings of the fundamental assessment concepts and procedures deemed likely to influence educational decisions.*
+  
+  What makes Popham’s definition elegant is that it does not divorce understanding of assessment concepts and procedures from the context in which they will be used; that is, to influence educational decisions.  Many people reading that definition will focus on the words “understandings of the fundamental assessment concepts and procedures” as the critical aspects to identify an assessment literate person.  However, the second half of the definition, “deemed likely to influence educational decisions,” is equally important.  Assessment literacy includes not only an understanding of assessment concepts and procedures, but also the proficiency to apply those concepts and procedures to influence educational decisions within a particular context as a teacher, administrator, or policymaker (or student, parent, taxpayer, …).  
 
 
 Compare Popham’s definition to the definition of assessment literacy contained within the Assessment Literacy Standards developed by the Michigan Assessment Consortium (MAC):
-“Assessment literacy is the set of beliefs and knowledge and practices about assessment that lead a teacher  to use assessment to improve student learning and achievement.”  
+
+
+*“Assessment literacy is the set of beliefs and knowledge and practices about assessment that lead a teacher  to use assessment to improve student learning and achievement.” *
+
+
 The MAC definition brings another dimension to the concept of assessment literacy: disposition.  Central to the MAC concept of assessment literacy is the idea that not only does the teacher possess the requisite knowledge and skills to use assessment effectively to improve student learning, but also has the inclination and tendency to do so. On the surface, disposition may not seem central to the definition of literacy or a literate person.  When focused on outcomes (i.e., improved instruction and student learning), however, there can be little argument about the importance of dispositions and the appropriateness of including them in the definition of assessment literacy.  It is not enough to simply understand that not smoking, a proper diet, maintaining a healthy weight, and physical activity are core components of a heart-healthy lifestyle.  It is not enough simply to know that establishing a personal budget, saving and investing wisely, and not accumulating large amounts of credit card debt are core components of financial wellness.  Similarly, understanding assessment concepts and procedures and their role in instruction will not lead to improved instruction and student learning without the disposition to apply that knowledge and skills.
+
+
 As a starting point to defining assessment literacy, therefore, we began with the fundamental concept of literacy; that is, the possession of basic knowledge and skills (e.g., the ability to read and write).  We then moved from literacy to the notion of a person being literate in a particular area, a concept which includes the knowing of how and when to apply that basic knowledge and skills appropriately within a particular concept.  Finally, we completed the definition with the MAC requirement that an assessment literate educator not only possess an understanding of fundamental assessment concepts and procedures and know how to use them within their specific context, but also have the disposition to use that knowledge and skills to improve instruction and student learning.
-Working from that definition, in the following sections, we will discuss context in more detail and suggest an assessment literacy framework to guide the development of assessment literate educators.  
-Defining context for teachers, administrators, and policymakers
+
+
+Working from that definition, in the following sections, we will discuss context in more detail and suggest an assessment literacy framework to guide the development of assessment literate educators. 
+
+
+##Defining context for teachers, administrators, and policymakers
+
+
 If assessment literacy is context dependent, then it follows that one must understand the context in which an educator is functioning to begin to understand what is needed to be assessment literate within that particular context.  In this section, we address context for three board categories of educators: teachers, administrators, and policymakers.    Of course, there will be variation in context within those three broad categories.  There are certainly differences among the teaching contexts and assessment literacy needs of an elementary school teacher, a middle school science specialist, and a high school special educator.  There will also variation within the broad class of administrators that might include building level principals, district curriculum directors, and superintendents.  However, there are enough similarities within each of the three categories and enough significant differences across the three categories to illustrate the importance of context in defining and determining how best to improve assessment literacy.  Of course, there are additional stakeholders who could also be considered such as students, parents, and the general public.  Their context for the interpretation and use of assessment is different from that of teachers, administrators, and policymakers.  At this time, however, those groups are beyond the scope of our discussion.
-Teachers
+
+
+__Teachers__
+
 For teachers, assessment involves gathering and interpreting evidence to inform instructional decisions to improve instruction and learning for individual students.  As suggested in the MAC standards, quality assessments are a critical attribute of effective teaching. It can be argued that at the classroom level assessment and instruction must be tightly interwoven to have the most positive impact on student learning. Therefore, it is logical to identify instruction as the primary context for assessment literacy for teachers.  
+
+
 As suggested in the figure below, it is also logical to establish a dependent link between assessment literacy and instructional literacy.  That is, the upper bound of teachers’ assessment literacy will always be impacted by their instructional literacy.  If we accept that the definition of an assessment literate teacher includes the capacity to use the information gathered from student assessment, limitations in instructional literacy must be place a cap on the extent to which that teacher can be considered assessment literate .  
+
 
 ![test image](https://charliedepascale.files.wordpress.com/2016/02/teacher-context.jpg)
 
+
 Additionally, it should go without saying that teachers’ instructional literacy is similarly bounded by their content literacy.  That is, there are limits to how effective a teacher’s instruction within a particular content area can be without a deep understanding of the content that they are teaching.  Therefore, for teachers, we define assessment literacy within the context of instructional literacy and content literacy.
-Administrators
+
+
+__Administrators__
+
+
 In contrast to the instructional context of teachers, the primary context for assessment literacy for administrators is often evaluation – program evaluation and personnel evaluation.  One or more steps removed from instruction, administrators are often using assessment to provide information needed to make judgments regarding the effectiveness of an instructional or curricular program or judgments regarding the relative effectiveness of two or more programs, approaches, or even staff members.
 To a certain degree, however, administrators may also need to function within the context of teachers; That may be the case in their role as teaching supervisors and the requirement to observe, evaluate, and provide feedback to improve instruction.  Certain administrators may also be in the position of selecting assessment-related resources and materials for teachers.
 
+
 ![test image](https://charliedepascale.files.wordpress.com/2016/02/administrator-context.jpg)
 
-Policymakers
+
+__Policymakers__
+
+
 Educators in our category of policymakers are further removed from the classroom and instruction than administrators.  They may be large-district superintendents, state department of education staff, or United States Department of Education staff.  Policymakers may also include non-educators such as elected officials at the local, state, and federal level. 
 Distinct from the program and personnel evaluation context of administrators, policymakers are primarily involved assessment for the purpose of data collection for the purpose of program monitoring.  There may be an evaluation aspect to program monitoring, but that evaluation would generally be at a higher-level and more removed from the actual program than evaluation conducted by administrators (e.g., more focused on outcomes and summative judgments).  The four pillars defining the mission of the United States Department of Education provide an example of the context of policymakers:
+
+
 •	Establishing policies on federal financial aid for education, and distributing as well as monitoring those funds.
 •	Collecting data on America's schools and disseminating research.
 •	Focusing national attention on key educational issues.
@@ -112,7 +145,10 @@ Distinct from the program and personnel evaluation context of administrators, po
 
 ![test image](https://charliedepascale.files.wordpress.com/2016/02/policymaker-context.jpg)
 
-Context Summary
+
+__Context Summary__
+
+
 We have identified three educator-context sets: teacher-instruction, administrator-evaluation, policymaker-data collection.  Those sets are clearly not disjoint.  As suggested throughout, there will be some degree of overlap.  It would be inappropriate, however, to regard the educator categories and contexts as completely crossed.  The assessment literacy skills of an effective teacher will most certainly differ from those of an effective administrator and from those of an effective policymaker.
 
 Categorizing Assessment Literacy Skills
