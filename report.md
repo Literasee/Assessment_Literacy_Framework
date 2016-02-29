@@ -56,13 +56,17 @@ In this paper, we attempt to lay out a framework that will help to develop that 
 ##Defining Assessment Literacy
 
 A prerequisite to improving assessment literacy is a shared understanding of the meaning of assessment literacy; not only an understating of the content which assessment literacy comprises, but an understanding also of the larger knowledge base which the term assessment literate entails.  When asked to define assessment literacy, there is a natural tendency to begin to list specific assessment-related knowledge, understanding, and skills that an assessment literate educator must possess.  This could be a straightforward list of topics and concepts such as the following selected topics from Michigan Assessment Consortium (MAC) Assessment Literacy Standards for Teachers:
+
+
 -	There are different purposes for student assessment
 -	A non-technical understanding statistical concepts associated with assessment:
-o	Reliability
-o	Validity, a characteristic of the use of the assessment, not the assessment itself
+  *	Reliability
+  *	Validity, a characteristic of the use of the assessment, not the assessment itself
 -	Use a variety of protocols for looking at and scoring student work
 -	Use assessment results to make appropriate instructional decisions for individual students and groups of students.
 -	Use assessment results appropriately to modify instruction to improve student achievement.
+-	
+
 Alternatively, the list could be expanded to include more detail as was done by Popham (2012) with corresponding items selected from a list of potential assessment literacy topics for educators:
 -	The fundamental function of educational assessment – namely the collection of evidence from which inferences can be made about students’ covert skills, knowledge, and affect.
 -	Reliability of educational assessments, especially the three ways in which consistency evidence is reported for groups of test-takers (stability, alternate-form reliability, and internal consistency) and how to gauge the consistency of assessment for individual test takers.
