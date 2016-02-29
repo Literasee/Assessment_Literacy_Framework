@@ -64,18 +64,24 @@ A prerequisite to improving assessment literacy is a shared understanding of the
   *	Validity, a characteristic of the use of the assessment, not the assessment itself
 -	Use a variety of protocols for looking at and scoring student work
 -	Use assessment results to make appropriate instructional decisions for individual students and groups of students.
--	Use assessment results appropriately to modify instruction to improve student achievement.
--	
+-	Use assessment results appropriately to modify instruction to improve student achievement.  
 
 Alternatively, the list could be expanded to include more detail as was done by Popham (2012) with corresponding items selected from a list of potential assessment literacy topics for educators:
+
+
 -	The fundamental function of educational assessment – namely the collection of evidence from which inferences can be made about students’ covert skills, knowledge, and affect.
 -	Reliability of educational assessments, especially the three ways in which consistency evidence is reported for groups of test-takers (stability, alternate-form reliability, and internal consistency) and how to gauge the consistency of assessment for individual test takers.
 -	The prominent role three types of validity evidence (content-related, criterion-related, and construct-related evidence) should play in building arguments to support the accuracy of test-based interpretations.
 -	Scoring of students’ responses to constructed-response test items, especially the distinctive contribution made by well-formed rubrics.
 -	Designing and implementing formative assessment procedures consonant with both research evidence and experience-based insights about the likely success of such procedures.
 -	How to determine the appropriateness of an accountability test for use in evaluating the quality of instruction.
+
 Regardless of the level of detail included, lists of topics are only the starting point in defining assessment literacy.
+
+
 Popham (2012) offers an elegant definition of assessment literacy:  Assessment literacy consists of an individual’s understandings of the fundamental assessment concepts and procedures deemed likely to influence educational decisions. What makes Popham’s definition elegant is that it does not divorce understanding of assessment concepts and procedures from the context in which they will be used; that is, to influence educational decisions.  Many people reading that definition will focus on the words “understandings of the fundamental assessment concepts and procedures” as the critical aspects to identify an assessment literate person.  However, the second half of the definition, “deemed likely to influence educational decisions,” is equally important.  Assessment literacy includes not only an understanding of assessment concepts and procedures, but also the proficiency to apply those concepts and procedures to influence educational decisions within a particular context as a teacher, administrator, or policymaker (or student, parent, taxpayer, …).  
+
+
 Compare Popham’s definition to the definition of assessment literacy contained within the Assessment Literacy Standards developed by the Michigan Assessment Consortium (MAC):
 “Assessment literacy is the set of beliefs and knowledge and practices about assessment that lead a teacher  to use assessment to improve student learning and achievement.”  
 The MAC definition brings another dimension to the concept of assessment literacy: disposition.  Central to the MAC concept of assessment literacy is the idea that not only does the teacher possess the requisite knowledge and skills to use assessment effectively to improve student learning, but also has the inclination and tendency to do so. On the surface, disposition may not seem central to the definition of literacy or a literate person.  When focused on outcomes (i.e., improved instruction and student learning), however, there can be little argument about the importance of dispositions and the appropriateness of including them in the definition of assessment literacy.  It is not enough to simply understand that not smoking, a proper diet, maintaining a healthy weight, and physical activity are core components of a heart-healthy lifestyle.  It is not enough simply to know that establishing a personal budget, saving and investing wisely, and not accumulating large amounts of credit card debt are core components of financial wellness.  Similarly, understanding assessment concepts and procedures and their role in instruction will not lead to improved instruction and student learning without the disposition to apply that knowledge and skills.
