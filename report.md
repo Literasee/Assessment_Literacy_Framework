@@ -58,7 +58,8 @@ Markdown | Less | Pretty
 
 ## Introduction
 
-
+Assessments are an integral part of nearly every facet of education. From classroom based to large scale standardized
+assessments, data derived from assessments are central to activities associated with education. 
 
 
 ## Sustaining and Evaluating Assessment Literacy
