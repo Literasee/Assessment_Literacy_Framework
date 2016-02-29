@@ -58,8 +58,16 @@ Markdown | Less | Pretty
 
 ## Introduction
 
-Assessments are an integral part of nearly every facet of education. From classroom based to large scale standardized
-assessments, data derived from assessments are central to activities associated with education. 
+Education assessments are an integral part of nearly every facet of education. From classroom based to large scale standardized
+assessments, data derived from assessments are central to activities associated with education.
+
+As education assessment takes on greater prominence in the evaluation of students, the districts and schools they attend, and,
+increasingly, their teachers, there is greater scrutiny of the (mis)use of assessment results. Despite the best efforts of
+measurement professionals, even results of the highest technical quality assessments can be subject to misunderstanding and abuse.
+In recent years, efforts directed at Assessment Literacy have become much more wide spread as our field attempts to assist users
+of assessments to understand and sensibly apply their assessment results. 
+
+
 
 
 ## Sustaining and Evaluating Assessment Literacy
