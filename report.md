@@ -255,9 +255,12 @@ To what extent are unintended negative outcomes evident?
 
 The nature of a comprehensive assessment literacy plan described in this document requires evidence from multiple sources to more fully gauge impact.  For example, the program may be more effective for participants in one role compared to another or more effective to support a certain use compared to another.  For this reason, the source and nature of the data collected should be frequent and varied.  The best case for drawing conclusions occurs when 1) multiple and distinct sources of evidence (e.g. focus group, survey, and data analyses) support the same finding 2) degree or magnitude of that finding is practically meaningful and 3) it occurs repeatedly (e.g. over multiple years for multiple users or units).  Of course, assembling and evaluating this type of evidence takes patience, discipline, and a commitment to short and long-term data collection and evaluation sustained by systemic support.  
 
-References
+## References
+
 Popham, J.W. (2006, March) Needed: A dose of assessment literacy. Educational Leadership,   63(6). pp. 84-85.
+
 Stiggins, R. J. (1995). Assessment Literacy for the 21st Century. The Phi Delta Kappan, (3). 238.
+
  
 ## Case Study 1
 
