@@ -287,26 +287,22 @@ Summative assessment informs instructional practices in a different yet equally 
  
 Case Study 2
 
-Abington Elementary School is a Title I school located in an urban location.  Abington has approximately 600 students attending full-day kindergarten through fifth grade.  There are approximately six teachers at the primary level (K-2) and five teachers for third through fifth grades.  Abington Elementary School has been making steady progress in reading over the past three years under the leadership of Suzanne Martin.  Her motto has been “what’s best for students is best for us.”  Ms. Martin and the teachers have made informed decisions about teaching reading which includes using a 4-block model for English Language Arts (ELA) instruction with a strong focus on a guided reading approach.  Within this approach, each teacher has approximately 120 minutes of ELA instruction every day with four flexible groups of students for direct reading instruction.  Within these groups, students demonstrate similar reading behaviors and can read similar levels of texts.  The teachers use a variety of assessment data, from informal assessments (checklists of reading behaviors and running records) to interim assessments (DIBELS and DRA2), in order to make decisions about the composition of these groups of students, so consequently the guided reading groups can change on an as needed basis based on the strengths and needs of each student.  In addition, the district has developed a series of local reading and writing assessments that are aligned to the curriculum at each grade level.  Reading assessments include such skills as reading high-frequency words, breadth of vocabulary (e.g., identifying homophones, multiple meaning words, etc.), and language structures.  Text-dependent analysis questions are administered on a quarterly basis as are narrative, informational, and opinion writing prompts.  Each assessment is accompanied by a rubric and because the culture of the school has been focused on making data-informed decisions, faculty meetings and professional development sessions are utilized to calibrate the scoring of student work and to discuss instructional decisions; yet to understand how the classes are formed and how the groups are structured, the planning actually begins before the start of a new school year.  
+Abington Elementary School is a Title I school located in an urban location.  Abington has approximately 600 students attending full-day kindergarten through fifth grade.  There are approximately six teachers at the primary level (K-2) and five teachers for third through fifth grades.  Abington Elementary School has been making steady progress in reading over the past three years under the leadership of Suzanne Martin.  Her motto has been “what’s best for students is best for us.”  Ms. Martin and the teachers have made informed decisions about teaching reading which includes using a 4-block model for English Language Arts (ELA) instruction with a strong focus on a guided reading approach.  Within this approach, each teacher has approximately 120 minutes of ELA instruction every day with four flexible groups of students for direct reading instruction.  Within these groups, students demonstrate similar reading behaviors and can read similar levels of texts.  The teachers use a variety of assessment data, from informal assessments (checklists of reading behaviors and running records) to interim assessments (DIBELS and DRA2), in order to make decisions about the composition of these groups of students, so consequently the guided reading groups can change on an as needed basis based on the strengths and needs of each student.  In addition, the district has developed a series of local reading and writing assessments that are aligned to the curriculum at each grade level.  Reading assessments include such skills as reading high-frequency words, breadth of vocabulary (e.g., identifying homophones, multiple meaning words, etc.), and language structures.  Text-dependent analysis questions are administered on a quarterly basis as are narrative, informational, and opinion writing prompts.  Each assessment is accompanied by a rubric and because the culture of the school has been focused on making data-informed decisions, faculty meetings and professional development sessions are utilized to calibrate the scoring of student work and to discuss instructional decisions; yet to understand how the classes are formed and how the groups are structured, the planning actually begins before the start of a new school year.
+
 At the end of each school year, Ms. Martin distributes a color-coded (by grade) half sheet of card stock paper that includes general information about each student and a table for recording academic information.  Each teacher reports identifying and behavioral information, guided reading level based on Fountas & Pinnell Leveled Texts (Heinemann) and whether the student demonstrates that he/she is at the high (H), average (A), or low (L) end of proficiency within the level, based on the student’s reading fluency and comprehension ability.  The teacher also records her/his students’ scores on the text-dependent analysis questions and writing prompts.  Although the focus has been on ELA, the faculty is also carefully monitoring math achievement, as well as students’ ability to demonstrate science and social studies content knowledge.  Student scores for district-developed performance assessments aligned to these content areas are also recorded in the table.
-Student Name:
-Gender:
-Special Needs:
-Record the student’s academic information below:
-	Reading Level
- and ( H, A, L)	TDA	Writing	Math	Science	Social Studies
-Q1						
-Q2						
-Q3						
-Q4						
-Behavioral Concerns (specific incidents, specific students to avoid placing in the same class, etc.):
 
-
-Parental Concerns:
-
-
-Other information:
-
+###### Student Name:
+###### Gender:
+###### Special Needs:
+###### Record the student’s academic information below:
+###### Reading Level and (H, A, L)	TDA	Writing	Math Science Social Studies
+###### Q1						
+###### Q2						
+###### Q3						
+###### Q4						
+###### Behavioral Concerns (specific incidents, specific students to avoid placing in the same class, etc.):
+###### Parental Concerns:
+###### Other information:
 
 The final faculty meeting of the school year is used for grade level teachers to meet together and group students based on the information recorded on the cards.  Careful consideration is given so that students are provided with opportunities to successfully engage with a variety of their peers throughout their elementary school experience.  Finally, Ms. Martin, the assistant principal, and the reading specialist review the groupings and make the final decisions for placing the students with individual teachers.  
 Prior to the beginning of the upcoming school year, the classroom teacher is able to access his/her student information, including viewing the actual assessments which are collected in a student portfolio.  However, the first back-to-school day is designated for reviewing this information and having vertical team discussions about students and instructional decisions.  The goal for the staff at Abington Elementary School is to begin the year knowledgeable about each student’s ability, strengths, and needs based on the assessment data so that there is no time wasted in beginning instruction.
