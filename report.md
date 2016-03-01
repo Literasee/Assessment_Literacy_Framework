@@ -1,47 +1,4 @@
-<center> <h1>Assessment Literacy</h1> </center>
-
-
-### February 18th: Share to all with partner edits
-### February 26th: Project Completion
-
-
-1. Assessment Literacy modules/examples.
-2. Assessment Literacy Capstone Paper.
-3. Assessment Literacy platform paper/module.
-
-
-
-## Assessment Literacy Paper Outline
-
-### Introduction (Damian & Chris)
-
-1. Context/background problem statement  
-2. History/research on state of assessment literacy  
-3. Need: Why assessment literacy?
-
-
-### Defining Assessment Literacy (Charlie & Jeri)
-
-1. Framework: Data, assessment, measurement.
-2. Assessment Users and Uses  
-3. Users: Teachers, administrators (principles, curriculum directors), and policy makers
-4. Exemplars/illustrations associated with the different combinations of users and uses.
-
-
-### Improving Assessment Literacy  (Jeri & Charlie)
-
-1. Formal (pre-service and in-service for teachers and administrators)
-2. Informal and ongoing  
-3. Via test design and reporting  
-
-
-### Sustaining and Evaluating Assessment Literacy (Chris & Damian)
-
-1. What needs to be done to sustain assessment literacy efforts.
-2. How should assessment literacy initiatives be evaluated.
-
-
-# A Framework for Improving Assessment Literacy
+<center> <h1>A Framework for Improving Assessment Literacy</h1> </center>
 
 According to National Council on Teacher Quality (2015), teacher education “preparation programs are not delivering new teachers with needed skills, forcing districts to dedicate professional development dollars to accomplish what they believe higher education should have done in the first place.”  In the Council’s review of 690 teacher education programs, only 24% adequately train teachers how to assess learning and use student performance data to inform instruction and these concepts are embedded in methods classes.   However, none of the programs reviewed offered a data literacy course.  What does this mean?  Pre-service teachers do not have opportunities to wrestle with understanding the data derived from assessments nor to thoroughly understand how to use the data to plan instruction.  These results are after the 2010, NCATE, the largest accreditor of teacher preparation programs, report recommended that “candidates be presented with multiple and rich course material in their preparation that will enable them to become assessment-literate and data-wise.” It did not however, provide specific suggestions as to how this new information could be integrated into existing coursework or provided through new coursework. Despite their current lack of training, classroom teachers report spending as much as one-third to one-half of their time involved in assessment-related activities, whether preparing, administering, or reviewing assessments in order to determine how to make instructional changes (Stiggins, 1992).
 
