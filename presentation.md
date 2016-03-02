@@ -12,7 +12,7 @@
 
 ===
 
-## Two issues we addressed
+## Two Central Issues
 
 1. The need for educators (teachers, administrators, central office) and policymakers to have an understanding of assessments:
  - Classroom assessments vs. high-stakes tests
