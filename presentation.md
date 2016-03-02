@@ -47,7 +47,13 @@ collaboration, and communication of assessment literacy content.
 
 ## Defining Assessment Literacy
 
+- Improving assessment literacy implies a shared understanding of the meaning of assessment literacy.
 
+
+===
+
+> Assessment literacy consists of an individual’s understandings of the fundamental assessment concepts and procedures deemed
+> likely to influence educational decisions. (Popham, 2012)
 
 ---
 
