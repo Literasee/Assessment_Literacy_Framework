@@ -45,8 +45,26 @@ collaboration, and communication of assessment literacy content.
 
 ---
 
-## In-line math
+## Defining Assessment Literacy
 
-<p class="fragment">* The cube root of $x$ is denoted $\sqrt[3]{x}$.</p>
-<p class="fragment">* In-line summation notation $\sum\_{i=1}^n x\_{i} = x\_1 + x\_2 + \cdots + x\_n$.</p>
-<p class="fragment">* In-line limit notation $\lim\_{n \rightarrow \infty} \frac{2n + 5}{n} = 2$.</p>
+
+
+---
+
+## Defining context for teachers, administrators, and policymakers
+
+
+
+---
+
+## Categorizing Assessment Literacy Skills
+
+
+
+---
+
+## Improving Assessment Literacy
+
+
+
+---

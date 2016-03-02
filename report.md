@@ -58,7 +58,7 @@ Working from that definition, in the following sections, we will discuss context
 
 If assessment literacy is context dependent, then it follows that one must understand the context in which an educator is functioning to begin to understand what is needed to be assessment literate within that particular context.  In this section, we address context for three board categories of educators: teachers, administrators, and policymakers.    Of course, there will be variation in context within those three broad categories.  There are certainly differences among the teaching contexts and assessment literacy needs of an elementary school teacher, a middle school science specialist, and a high school special educator.  There will also variation within the broad class of administrators that might include building level principals, district curriculum directors, and superintendents.  However, there are enough similarities within each of the three categories and enough significant differences across the three categories to illustrate the importance of context in defining and determining how best to improve assessment literacy.  Of course, there are additional stakeholders who could also be considered such as students, parents, and the general public.  Their context for the interpretation and use of assessment is different from that of teachers, administrators, and policymakers.  At this time, however, those groups are beyond the scope of our discussion.
 
-#### Teachers
+### Teachers
 
 For teachers, assessment involves gathering and interpreting evidence to inform instructional decisions to improve instruction and learning for individual students.  As suggested in the MAC standards, quality assessments are a critical attribute of effective teaching. It can be argued that at the classroom level assessment and instruction must be tightly interwoven to have the most positive impact on student learning. Therefore, it is logical to identify instruction as the primary context for assessment literacy for teachers.  
 
@@ -71,7 +71,7 @@ As suggested in the figure below, it is also logical to establish a dependent li
 
 Additionally, it should go without saying that teachers’ instructional literacy is similarly bounded by their content literacy.  That is, there are limits to how effective a teacher’s instruction within a particular content area can be without a deep understanding of the content that they are teaching.  Therefore, for teachers, we define assessment literacy within the context of instructional literacy and content literacy.
 
-#### Administrators
+### Administrators
 
 
 In contrast to the instructional context of teachers, the primary context for assessment literacy for administrators is often evaluation – program evaluation and personnel evaluation.  One or more steps removed from instruction, administrators are often using assessment to provide information needed to make judgments regarding the effectiveness of an instructional or curricular program or judgments regarding the relative effectiveness of two or more programs, approaches, or even staff members.
@@ -80,7 +80,7 @@ To a certain degree, however, administrators may also need to function within th
 ![Administrator Context](https://charliedepascale.files.wordpress.com/2016/02/administrator-context.jpg)
 
 
-#### Policymakers
+### Policymakers
 
 
 Educators in our category of policymakers are further removed from the classroom and instruction than administrators.  They may be large-district superintendents, state department of education staff, or United States Department of Education staff.  Policymakers may also include non-educators such as elected officials at the local, state, and federal level.
@@ -95,7 +95,7 @@ Distinct from the program and personnel evaluation context of administrators, po
 ![Policy Maker Context](https://charliedepascale.files.wordpress.com/2016/02/policymaker-context.jpg)
 
 
-#### Context Summary
+### Context Summary
 
 We have identified three educator-context sets: teacher-instruction, administrator-evaluation, policymaker-data collection.  Those sets are clearly not disjoint.  As suggested throughout, there will be some degree of overlap.  It would be inappropriate, however, to regard the educator categories and contexts as completely crossed.  The assessment literacy skills of an effective teacher will most certainly differ from those of an effective administrator and from those of an effective policymaker.
 
@@ -126,7 +126,7 @@ Example assessment literacy materials:
 
 * [Chris's Module](https://view.literasee.io/cdomal/905d367ddea083549d4c)
 * [Jeri's Module](https://view.literasee.io/cdepascale/dd5568001789cae58fe0)
-* [Damian's Module]()
+* [Damian's Module](https://view.literasee.io/dbetebenner/a56813f846cb9724005c)
 
 
 ## Improving Assessment Literacy
@@ -168,7 +168,7 @@ When developing and/or selecting the assessments for classroom progress monitori
 -	Do the rubrics have appropriate evaluative criteria and quality descriptors?
 
 
-## Interpretation and Use of Student Assessment Data
+### Interpretation and Use of Student Assessment Data
 
 The increased use of a variety of assessments, as well as more sophisticated technology, has made more data available in schools than ever before.  This access to current and varied student learning data has been described as “teaching with the lights on” because educators do not have to guess what students know or hope that their instruction is having the desired effect.  Data provide a way to confirm what students are learning and the extent to which they are making progress towards goals and targets.  Though assessments allow for the collection of this information, they are only as valuable as the quality of the information collected and the way that the information is used.  
 
@@ -184,7 +184,7 @@ Data can include demographic and behavioral criteria that provide information ab
 
 The best way to illustrate how the different structures and opportunities that are created in schools and can support the interpretation and application of data-informed decision throughout a school year is by examining a case studies at Barley Mill Middle School in which the staff used their assessment review as a means analyzing students’ strengths and needs in order to making instructional decisions.
 
-## Sustaining and Evaluating Assessment Literacy
+### Sustaining and Evaluating Assessment Literacy
 
 In the final section of this paper will we discuss recommendations for sustaining and evaluating assessment literacy initiatives.   We argue that literacy efforts are most likely to be sustained and successful when characterized by four factors:
 
@@ -266,6 +266,7 @@ To what extent are unintended negative outcomes evident?
 - Data suggesting increase frequency of negative outcomes (e.g. higher attrition) in high implementation areas
 
 The nature of a comprehensive assessment literacy plan described in this document requires evidence from multiple sources to more fully gauge impact.  For example, the program may be more effective for participants in one role compared to another or more effective to support a certain use compared to another.  For this reason, the source and nature of the data collected should be frequent and varied.  The best case for drawing conclusions occurs when 1) multiple and distinct sources of evidence (e.g. focus group, survey, and data analyses) support the same finding 2) degree or magnitude of that finding is practically meaningful and 3) it occurs repeatedly (e.g. over multiple years for multiple users or units).  Of course, assembling and evaluating this type of evidence takes patience, discipline, and a commitment to short and long-term data collection and evaluation sustained by systemic support.  
+
 
 ## References
 
