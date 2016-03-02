@@ -1,4 +1,5 @@
 <center> <h1>A Framework for Improving Assessment Literacy</h1> </center>
+<center> <h3>Jeri Thompson, Charlie DePascale, Chris Domaleski, Damian Betebenner</h3> </center>
 
 According to National Council on Teacher Quality (2015), teacher education “preparation programs are not delivering new teachers with needed skills, forcing districts to dedicate professional development dollars to accomplish what they believe higher education should have done in the first place.”  In the Council’s review of 690 teacher education programs, only 24% adequately train teachers how to assess learning and use student performance data to inform instruction and these concepts are embedded in methods classes.   However, none of the programs reviewed offered a data literacy course.  What does this mean?  Pre-service teachers do not have opportunities to wrestle with understanding the data derived from assessments nor to thoroughly understand how to use the data to plan instruction.  These results are after the 2010, NCATE, the largest accreditor of teacher preparation programs, report recommended that “candidates be presented with multiple and rich course material in their preparation that will enable them to become assessment-literate and data-wise.” It did not however, provide specific suggestions as to how this new information could be integrated into existing coursework or provided through new coursework. Despite their current lack of training, classroom teachers report spending as much as one-third to one-half of their time involved in assessment-related activities, whether preparing, administering, or reviewing assessments in order to determine how to make instructional changes (Stiggins, 1992).
 
@@ -116,6 +117,10 @@ Among the three categories, data literacy is probably the category least often a
 There is obviously overlap across the three categories.  The categorization does not imply that the principles in each of the categories should be addressed separately or out of context.   However, educators’ understanding of assessment concepts and the development of instructional materials can be improved by a better understanding that assessment literacy is multi-dimensional, requiring a knowledge and skills from a variety of disciplines.  When developing instructional materials for assessment literacy, a first step should be to identify key particular knowledge and skills within each cell.
 
 ![Assessment Literacy Framework](https://charliedepascale.files.wordpress.com/2016/02/framework.jpg)
+
+
+### Assessment Literacy Exemplars
+
 
 ## Improving Assessment Literacy
 
@@ -257,37 +262,9 @@ The nature of a comprehensive assessment literacy plan described in this documen
 
 ## References
 
-American Association of School Administrators, Using Data to Improve Schools:  What’s Working, Retrieved from http://aasa.org/uploadedFiles/Policy_and_Advocacy/files/UsingDataToImproveSchools.pdf. 
-
-DeWitt, P. (2011).  Why We  Need to Differentiate Between Assessment and Testing.  Education Week, http://blogs.edweek.org/edweek/finding_common_ground/2011/12/why_we_need_to_differentiate_between_assessment_testing.html?preview=1&r=1861573305. 
-
-Greenberg, J., Walsh, K., & McKee, A. (2013).  Teacher Prep Review:  A review of the nation’s teacher preparation programs. National Council on Teacher Quality, http://www.nctq.org/dmsView/Teacher_Prep_Review_2014_Report . 
-
-Hamilton, L, Haverson, R., Jackson, S., Mandinach, E., Supovitz, J., Wayman, J. (2009) Using student achievement data to support instructional decision making (NCEE 2009-4067).  Washington, D.C.: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S., Department of Education.  http://ies.ed.gov/ncee/wwc/publications/practiceguides/
-
-Herman, J. L., Osmundson, E., Ayala, C., Schneider, S., & Timms, M. (2006). The nature and impact of teachers' formative assessment practices. CSE Technical Report #703. National Center for Research on Evaluation, Standards, and Student Testing (CRESST).
-
-Lazarin, M. (2014).  Testing Overload in America’s Schools.  Center for American Progress, https://www.americanprogress.org/issues/education/report/2014/10/16/99073/testing-overload-in-americas-schools/. 
-
-Learning Points Associates (2004). Guide to using data in school improvement efforts: A compilation of knowledge from data retreats and data use at Learning Points Associates. Naperville, Ill.: Author. Retrieved from http://www.ncrel.org/datause/howto/guidebook.pdf.
-
-Marsh, C. J. (2007). A critical analysis of the use of formative assessment in schools. Educational Research and Policy Practice, 6, 25–29.
-
-McMillan, J. H. (2002).  What Teachers Need to Know about Assessment.  National Education Association, http://echo.edres.org:8080/nea/teachers.pdf. 
-
-Michigan Assessment Consortium (2014).  Assessment Literacy Standards: An Imperative for Michigan.  Retrieved from http://michiganassessmentconsortium.org/sites/default/files/mac_AssessLitStds_mobile.pdf.
-
-Perie, M., Marion, S., & Gong, B. (2009), Moving Toward a Comprehensive Assessment System:  A Framework for Considering Interim Assessments, National Council on Measurement in Education.
-
-Popham, W. J. (2011). Assessment Literacy Overlooked: A Teacher Educator's Confession.  Teacher Educator, v46 n4 p265-273.
-
-Popham, W. J. (2009).  Unlearned Lessons: Six Stumbling Blocks to our Schools' Success.  Cambridge, Massachusetts: Harvard University Press.
-
-Popham, W. J. (2006).  All About Accountability/Needed:  A Dose of Assessment Literacy.  Educational Leadership, vol. 63, no. 6, pp. 84-85.
+Popham, J.W. (2006, March) Needed: A dose of assessment literacy. Educational Leadership,   63(6). pp. 84-85.
 
 Stiggins, R. J. (1995). Assessment Literacy for the 21st Century. The Phi Delta Kappan, (3). 238.
-
-
 
  
 ## Case Study 1
@@ -306,6 +283,17 @@ In the midst of this process, Ms. Fowler, the visual arts teacher, suggested tha
 
 By the end of March, just prior to the state test, teachers met at a faculty meeting to discuss how their instruction and assessments had changed, and how students were performing on constructed responses.  They were pleased with the overall improvement in student writing that had occurred during the school year.  They felt confident that more students would demonstrate greater proficiency on the state test; but more importantly, as Mr. Sampson shared, “The way I approach teaching and assessing students has changed through this process of analyzing student work and data.  I don’t know how I didn’t consider the results of student work to make instructional decisions all these years!”
 
+## Conclusion
+
+Assessment entails a collection of procedures that inform the learning process. Formative, interim, and summative assessments each have a place in the larger system of assessment, instruction, and curriculum. When formative assessments are used in conjunction with interim and summative assessment, the potential exists to improve outcomes for all students. Assessments can only serve this purpose, however, when teachers are supported to make appropriate adjustments in their instruction (Herman et al., 2006; Marsh, 2007).
+
+Formative assessment can be most directly used at the individual student level because it measures how a particular student is progressing in the instructional program and identifies where support or enrichment may be needed. Focusing on the individual provides immediate feedback to the student and teacher on the student’s progress within the curriculum. Formative assessment may also be evaluated at the classroom level to inform teaching practices because it reveals how many students may be experiencing difficulty. If many students are having difficulty, then perhaps a more general change in instruction is needed.
+
+Interim assessment data can provide teachers with information about what concepts students have learned and the potential to provide follow-up for struggling students.   Interim assessments can be analyzed and used to provide feedback to students, to allow for the re-teaching of necessary foundational skills or concepts, differentiating instruction, and rethinking the way in which a concept was taught.  They can provide a structured and systematic strategy for examining overall achievement and to identify areas of need that may be overlooked in everyday classroom interactions.
+
+Summative assessment informs instructional practices in a different yet equally important way. Critics of large-scale assessments argue that they are disconnected from instruction and are not useful in the instructional process (Shepard, 2001). However, summative assessment can serve both as a guide to teaching methods and to improving curriculum to better match the needs of the students. A primary use of assessment data is in planning curricula. For example, if a school's performance on a state assessment indicates high percentages of students who do not meet standards in writing, then the school could collect more information on its writing curricula, student writing performance (through portfolios or other classroom work), and professional development needs for its teachers. After collecting such information, the school may then review and adopt new writing curricula as well as provide professional development to its teachers in order to support stronger student achievement in writing. Ongoing evaluation of the writing program would be conducted through the use of formative, interim, and summative assessment. In this manner, when summative and formative assessments are aligned, they can inform the instructional process and support both the daily instructional practices of teachers as well as the longer-term planning of curricula and instruction.
+
+ 
 ## Case Study 2
 
 
@@ -329,13 +317,3 @@ At the end of each school year, Ms. Martin distributes a color-coded (by grade) 
 The final faculty meeting of the school year is used for grade level teachers to meet together and group students based on the information recorded on the cards.  Careful consideration is given so that students are provided with opportunities to successfully engage with a variety of their peers throughout their elementary school experience.  Finally, Ms. Martin, the assistant principal, and the reading specialist review the groupings and make the final decisions for placing the students with individual teachers.
 
 Prior to the beginning of the upcoming school year, the classroom teacher is able to access his/her student information, including viewing the actual assessments which are collected in a student portfolio.  However, the first back-to-school day is designated for reviewing this information and having vertical team discussions about students and instructional decisions.  The goal for the staff at Abington Elementary School is to begin the year knowledgeable about each student’s ability, strengths, and needs based on the assessment data so that there is no time wasted in beginning instruction.
-
-## Conclusion
-
-Assessment entails a collection of procedures that inform the learning process. Formative, interim, and summative assessments each have a place in the larger system of assessment, instruction, and curriculum. When formative assessments are used in conjunction with interim and summative assessment, the potential exists to improve outcomes for all students. Assessments can only serve this purpose, however, when teachers are supported to make appropriate adjustments in their instruction (Herman et al., 2006; Marsh, 2007).
-
-Formative assessment can be most directly used at the individual student level because it measures how a particular student is progressing in the instructional program and identifies where support or enrichment may be needed. Focusing on the individual provides immediate feedback to the student and teacher on the student’s progress within the curriculum. Formative assessment may also be evaluated at the classroom level to inform teaching practices because it reveals how many students may be experiencing difficulty. If many students are having difficulty, then perhaps a more general change in instruction is needed.
-
-Interim assessment data can provide teachers with information about what concepts students have learned and the potential to provide follow-up for struggling students.   Interim assessments can be analyzed and used to provide feedback to students, to allow for the re-teaching of necessary foundational skills or concepts, differentiating instruction, and rethinking the way in which a concept was taught.  They can provide a structured and systematic strategy for examining overall achievement and to identify areas of need that may be overlooked in everyday classroom interactions.
-
-Summative assessment informs instructional practices in a different yet equally important way. Critics of large-scale assessments argue that they are disconnected from instruction and are not useful in the instructional process (Shepard, 2001). However, summative assessment can serve both as a guide to teaching methods and to improving curriculum to better match the needs of the students. A primary use of assessment data is in planning curricula. For example, if a school's performance on a state assessment indicates high percentages of students who do not meet standards in writing, then the school could collect more information on its writing curricula, student writing performance (through portfolios or other classroom work), and professional development needs for its teachers. After collecting such information, the school may then review and adopt new writing curricula as well as provide professional development to its teachers in order to support stronger student achievement in writing. Ongoing evaluation of the writing program would be conducted through the use of formative, interim, and summative assessment. In this manner, when summative and formative assessments are aligned, they can inform the instructional process and support both the daily instructional practices of teachers as well as the longer-term planning of curricula and instruction.
