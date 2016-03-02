@@ -56,7 +56,7 @@ Working from that definition, in the following sections, we will discuss context
 
 ## Defining context for teachers, administrators, and policymakers
 
-If assessment literacy is context dependent, then it follows that one must understand the context in which an educator is functioning to begin to understand what is needed to be assessment literate within that particular context.  In this section, we address context for three board categories of educators: teachers, administrators, and policymakers.    Of course, there will be variation in context within those three broad categories.  There are certainly differences among the teaching contexts and assessment literacy needs of an elementary school teacher, a middle school science specialist, and a high school special educator.  There will also variation within the broad class of administrators that might include building level principals, district curriculum directors, and superintendents.  However, there are enough similarities within each of the three categories and enough significant differences across the three categories to illustrate the importance of context in defining and determining how best to improve assessment literacy.  Of course, there are additional stakeholders who could also be considered such as students, parents, and the general public.  Their context for the interpretation and use of assessment is different from that of teachers, administrators, and policymakers.  At this time, however, those groups are beyond the scope of our discussion.
+If assessment literacy is context dependent, then it follows that one must understand the context in which an educator is functioning to begin to understand what is needed to be assessment literate within that particular context.  In this section, we address context for three broad categories of educators: teachers, administrators, and policymakers. Of course, there will be variation in context within those three broad categories.  There are certainly differences among the teaching contexts and assessment literacy needs of an elementary school teacher, a middle school science specialist, and a high school special educator.  There will also variation within the broad class of administrators that might include building level principals, district curriculum directors, and superintendents.  However, there are enough similarities within each of the three categories and enough significant differences across the three categories to illustrate the importance of context in defining and determining how best to improve assessment literacy. Of course, there are additional stakeholders who could also be considered such as students, parents, and the general public. Their context for the interpretation and use of assessment is different from that of teachers, administrators, and policymakers. At this time, however, those groups are beyond the scope of our discussion.
 
 ### Teachers
 
@@ -122,7 +122,6 @@ There is obviously overlap across the three categories.  The categorization does
 
 ### Assessment Literacy Exemplars
 
-Example assessment literacy materials:
 
 * [Chris's Module](https://view.literasee.io/cdomal/905d367ddea083549d4c)
 * [Jeri's Module](https://view.literasee.io/cdepascale/dd5568001789cae58fe0)
@@ -233,7 +232,9 @@ An important starting point for an evaluation plan is a well-articulated set of 
 
 ### Evaluation Question	Examples of Evidence
 
-To what extent are the objectives of the initiative clearly defined and well-known?	-	Documentation of program objectives
+To what extent are the objectives of the initiative clearly defined and well-known?
+
+- Documentation of program objectives
 - Record of communication  strategies to disseminate information
 - Results from surveys and/or focus groups
 
@@ -249,14 +250,15 @@ To what extent do specific assessment literacy programs or resources serve their
 - Feedback that describes manner of use that is consistent with intended use
 - Qualitative and quantitative feedback from consumers regarding perceived satisfaction and benefit
 
-
 Is the assessment literacy program building capacity as intended?
+
 - Self-report feedback from participants regarding use and benefit
 - Increase in quality and quantity of desired behaviors (e.g. improved educator evaluation scores in specific areas, reports from parent, staff, or student surveys)
 - Increase in quality and quantity of specific work products (e.g. quality of assessments produced, number and quality of planning sessions with colleagues using assessment data)
 - Experimental or quasi-experimental design that compares demonstration of target competencies for participants versus non-participants factoring in degree of participation
 
 Does the assessment literacy initiative appear to have a positive impact on student achievement?
+
 - Evidence of improved student outcomes (e.g. growth data)
 - Experimental or quasi-experimental design comparing target student outcomes for organizations/ environments characterized by high degree of desired assessment literacy practices with a suitable control condition
 

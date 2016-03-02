@@ -107,6 +107,38 @@ Measurement Literacy – Understand the fundamental measurement principles, part
 
 ## Improving Assessment Literacy
 
+Several aspects that all educators should know in order to be assessment literate.
 
+- Educators need to understand the role of assessments and be knowledgeable consumers of assessment information.
+- Educators need to be constructors of high-quality assessments and scoring guides.
+- Educators need to be able to interpret and use the results of students’ performances.
+
+
+===
+
+## The Role of Assessments and Assessment Information
+### Four key principles
+
+1. The results of assessments should be beneficial for students (e.g., gain services for students with special needs, to inform instruction by building on what students already know, to improve programs, etc.).
+2. The content of the assessments should allow students to demonstrate progress toward important learning goals and be aligned with the subject matter.
+3. The selected assessments should fit the identified purpose.
+4. A variety of assessment types should be utilized to measure student achievement.
+
+
+==
+
+## Sustaining and Evaluating Assessment Literacy
+
+1. Relevant Focus: Literacy initiatives are thoughtfully designed to be meaningful and useful for a variety of practitioners
+2. Support Structures:  There are well defined mechanisms to provide the appropriate resources to support literacy initiatives   
+3. Widespread Investment and Agency:   There is buy-in from a variety of stakeholders at multiple levels, who are equipped and empowered to maintain and expand initiatives  
+4. Ongoing Monitoring and Review:  Any worthwhile initiative must be regularly monitored and evaluated to foster ongoing improvement
 
 ---
+
+## Assessment Literacy Exemplars
+
+
+* [Chris's Module](https://view.literasee.io/cdomal/905d367ddea083549d4c)
+* [Jeri's Module](https://view.literasee.io/cdepascale/dd5568001789cae58fe0)
+* [Damian's Module](https://view.literasee.io/dbetebenner/a56813f846cb9724005c)
