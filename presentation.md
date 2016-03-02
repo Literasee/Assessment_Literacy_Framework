@@ -40,8 +40,8 @@ collaboration, and communication of assessment literacy content.
 ### Create • Collaborate • Communicate
 
 - We set out to create a framework and some content that links to selected elements of the framework
-- We also worked to develop a resource to help create and distribute the content
-- We view this as a ‘proof of concept’ to show how we can utilize these tools moving forward to more effectively promote assessment literacy
+- We also worked to develop a resource to help create, collaborate on and communicate the content
+- We view this as a __proof of concept__ to show how we can utilize these tools moving forward to more effectively promote assessment literacy
 
 ---
 
