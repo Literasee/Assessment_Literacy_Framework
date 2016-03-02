@@ -1,5 +1,5 @@
-### A Framework for Improving Assessment Literacy
-##### Assessment Literacy Collaborative Workgroup
+## Assessment Literacy
+#### Assessment Literacy Collaborative Workgroup
 ###### Jeri Thompson, Charlie DePascale, Chris Domaleski & Damian Betebenner
 
 ---
