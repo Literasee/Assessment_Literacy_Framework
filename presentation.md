@@ -62,6 +62,7 @@ collaboration, and communication of assessment literacy content.
 > Assessment literacy is the set of beliefs and knowledge and practices about assessment that lead a teacher to use
 > assessment to improve student learning and achievement. (Michigan Assessment Consortium)
 
+
 ---
 
 ## Defining context for teachers, administrators, and policymakers
