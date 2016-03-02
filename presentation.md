@@ -1,6 +1,7 @@
 ## Assessment Literacy
-#### Assessment Literacy Collaborative Workgroup
-###### Jeri Thompson, Charlie DePascale, Chris Domaleski & Damian Betebenner
+### Assessment Literacy Collaborative Workgroup
+##### Jeri Thompson, Charlie DePascale, Chris Domaleski
+##### & Damian Betebenner
 
 ---
 
