@@ -257,9 +257,37 @@ The nature of a comprehensive assessment literacy plan described in this documen
 
 ## References
 
-Popham, J.W. (2006, March) Needed: A dose of assessment literacy. Educational Leadership,   63(6). pp. 84-85.
+American Association of School Administrators, Using Data to Improve Schools:  What’s Working, Retrieved from http://aasa.org/uploadedFiles/Policy_and_Advocacy/files/UsingDataToImproveSchools.pdf. 
+
+DeWitt, P. (2011).  Why We  Need to Differentiate Between Assessment and Testing.  Education Week, http://blogs.edweek.org/edweek/finding_common_ground/2011/12/why_we_need_to_differentiate_between_assessment_testing.html?preview=1&r=1861573305. 
+
+Greenberg, J., Walsh, K., & McKee, A. (2013).  Teacher Prep Review:  A review of the nation’s teacher preparation programs. National Council on Teacher Quality, http://www.nctq.org/dmsView/Teacher_Prep_Review_2014_Report . 
+
+Hamilton, L, Haverson, R., Jackson, S., Mandinach, E., Supovitz, J., Wayman, J. (2009) Using student achievement data to support instructional decision making (NCEE 2009-4067).  Washington, D.C.: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S., Department of Education.  http://ies.ed.gov/ncee/wwc/publications/practiceguides/
+
+Herman, J. L., Osmundson, E., Ayala, C., Schneider, S., & Timms, M. (2006). The nature and impact of teachers' formative assessment practices. CSE Technical Report #703. National Center for Research on Evaluation, Standards, and Student Testing (CRESST).
+
+Lazarin, M. (2014).  Testing Overload in America’s Schools.  Center for American Progress, https://www.americanprogress.org/issues/education/report/2014/10/16/99073/testing-overload-in-americas-schools/. 
+
+Learning Points Associates (2004). Guide to using data in school improvement efforts: A compilation of knowledge from data retreats and data use at Learning Points Associates. Naperville, Ill.: Author. Retrieved from http://www.ncrel.org/datause/howto/guidebook.pdf.
+
+Marsh, C. J. (2007). A critical analysis of the use of formative assessment in schools. Educational Research and Policy Practice, 6, 25–29.
+
+McMillan, J. H. (2002).  What Teachers Need to Know about Assessment.  National Education Association, http://echo.edres.org:8080/nea/teachers.pdf. 
+
+Michigan Assessment Consortium (2014).  Assessment Literacy Standards: An Imperative for Michigan.  Retrieved from http://michiganassessmentconsortium.org/sites/default/files/mac_AssessLitStds_mobile.pdf.
+
+Perie, M., Marion, S., & Gong, B. (2009), Moving Toward a Comprehensive Assessment System:  A Framework for Considering Interim Assessments, National Council on Measurement in Education.
+
+Popham, W. J. (2011). Assessment Literacy Overlooked: A Teacher Educator's Confession.  Teacher Educator, v46 n4 p265-273.
+
+Popham, W. J. (2009).  Unlearned Lessons: Six Stumbling Blocks to our Schools' Success.  Cambridge, Massachusetts: Harvard University Press.
+
+Popham, W. J. (2006).  All About Accountability/Needed:  A Dose of Assessment Literacy.  Educational Leadership, vol. 63, no. 6, pp. 84-85.
 
 Stiggins, R. J. (1995). Assessment Literacy for the 21st Century. The Phi Delta Kappan, (3). 238.
+
+
 
  
 ## Case Study 1
