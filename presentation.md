@@ -65,7 +65,29 @@ collaboration, and communication of assessment literacy content.
 
 ---
 
-## Defining context for teachers, administrators, and policymakers
+## The Context for Assessment Literacy
+
+- Assessment literacy is context dependent.
+- We consider three broad categories:
+    - Teachers
+    - Administrators
+    - Policymakers
+
+===
+
+![Teacher Context](https://charliedepascale.files.wordpress.com/2016/02/teacher-context.jpg)
+
+
+
+===
+
+![Administrator Context](https://charliedepascale.files.wordpress.com/2016/02/administrator-context.jpg)
+
+
+===
+
+![Policy Maker Context](https://charliedepascale.files.wordpress.com/2016/02/policymaker-context.jpg)
+
 
 
 
