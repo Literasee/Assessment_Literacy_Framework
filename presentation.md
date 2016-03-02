@@ -23,7 +23,7 @@
 
 ===
 
-Our group attempted to marry these two issues by creating a lasting, publicly available resource to facilitate creation,
+Our group attempted to marry these two issues by creating a lasting, publicly available resource to facilitate the creation,
 collaboration, and communication of assessment literacy content.
 
 
