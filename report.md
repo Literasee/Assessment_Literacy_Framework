@@ -122,6 +122,12 @@ There is obviously overlap across the three categories.  The categorization does
 
 ### Assessment Literacy Exemplars
 
+Example assessment literacy materials:
+
+* [Chris's Module](https://view.literasee.io/cdomal/905d367ddea083549d4c)
+* [Jeri's Module](https://view.literasee.io/cdepascale/dd5568001789cae58fe0)
+* [Damian's Module]()
+
 
 ## Improving Assessment Literacy
 
