@@ -129,10 +129,10 @@ Several aspects that all educators should know in order to be assessment literat
 
 ## Sustaining and Evaluating Assessment Literacy
 
-1. Relevant Focus: Literacy initiatives are thoughtfully designed to be meaningful and useful for a variety of practitioners.
-2. Support Structures:  There are well defined mechanisms to provide the appropriate resources to support literacy initiatives.
-3. Widespread Investment and Agency:   There is buy-in from a variety of stakeholders at multiple levels, who are equipped and empowered to maintain and expand initiatives.
-4. Ongoing Monitoring and Review:  Any worthwhile initiative must be regularly monitored and evaluated to foster ongoing improvement.
+1. Relevant Focus
+2. Support Structures
+3. Widespread Investment and Agency
+4. Ongoing Monitoring and Review
 
 ---
 
