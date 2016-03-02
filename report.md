@@ -123,9 +123,9 @@ There is obviously overlap across the three categories.  The categorization does
 ### Assessment Literacy Exemplars
 
 
-* [Chris's Module](https://view.literasee.io/cdomal/905d367ddea083549d4c)
-* [Jeri's Module](https://view.literasee.io/cdepascale/dd5568001789cae58fe0)
-* [Damian's Module](https://view.literasee.io/dbetebenner/a56813f846cb9724005c)
+* [Chris's Module](https://view.literasee.io/cdomal/905d367ddea083549d4c/report)
+* [Jeri's Module](https://view.literasee.io/cdepascale/dd5568001789cae58fe0/report)
+* [Damian's Module](https://view.literasee.io/dbetebenner/a56813f846cb9724005c/report)
 
 
 ## Improving Assessment Literacy
