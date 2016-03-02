@@ -98,7 +98,7 @@ Measurement Literacy – Understand the fundamental measurement principles, part
 
 - __Data Literacy__ Possess the basic skills needed to organize and manipulate data so that it can be analyzed, interpreted, and used appropriately.
 
-==
+===
 
 ![Assessment Literacy Framework](https://charliedepascale.files.wordpress.com/2016/02/framework.jpg)
 
