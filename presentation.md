@@ -89,12 +89,18 @@ collaboration, and communication of assessment literacy content.
 ![Policy Maker Context](https://charliedepascale.files.wordpress.com/2016/02/policymaker-context.jpg)
 
 
-
-
 ---
 
 ## Categorizing Assessment Literacy Skills
 
+- __Testing Literacy__ Understand the fundamental principles of test design, development, and use.
+Measurement Literacy – Understand the fundamental measurement principles, particularly those related to validity and the uncertainty of measurement.
+
+- __Data Literacy__ Possess the basic skills needed to organize and manipulate data so that it can be analyzed, interpreted, and used appropriately.
+
+==
+
+![Assessment Literacy Framework](https://charliedepascale.files.wordpress.com/2016/02/framework.jpg)
 
 
 ---
